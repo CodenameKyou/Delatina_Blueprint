@@ -1,0 +1,6 @@
+{
+  "name": "CLIPPER QUEST",
+  "description": "Retro arcade 8-bit game-themed learning hub and tracker for short-form video clippers by Delatina, John Kenneth (Kyousukenji).",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
